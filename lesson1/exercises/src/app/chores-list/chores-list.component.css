@@ -1,0 +1,13 @@
+.chores {
+    font-size: 1.3vw;
+    color: red;
+}
+
+.chores h3 {
+    text-decoration: underline;
+    font-size: 2vw;
+}
+
+.chores ul {
+    font-style: italic;
+}
